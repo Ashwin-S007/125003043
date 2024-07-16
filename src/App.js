@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import api from './api/products'; // Assuming this is your Axios instance or API utility
+import api from './api/products'; 
 import Home from './Home';
 
 function App() {
